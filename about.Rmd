@@ -1,9 +1,12 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  A mostly technical blog on, mostly about AI.
 ---
 
+Hi! My name is Daniele. I am PhD student in the [Machine Learning Group](https://mlg.unige.ch) at the University of Geneva, under the supervision of François Fleuret. 
+I am also an aspiring triathlete, an avid reader, and a not-good-anymore guitar player.
+You can follow me on [Twitter](https://twitter.com/DanielePaliotta) and [Instagram](https://www.instagram.com/daaniaele/).
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
